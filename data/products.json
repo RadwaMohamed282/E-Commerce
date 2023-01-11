@@ -1,0 +1,251 @@
+[
+  {
+    "id": "mob_1",
+    "name": "Google Pixel 3 XL",
+    "price": "65999",
+    "metaDescription": "With a powerful battery, massive internal storage, impressive cameras and innovative features, there’s more to pixel 3 xl than meets the eye. Its 16 cm (6. 3) OLED bezel-less display with notch and its 82 percent body-to-display ratio, offers you an impressive viewing experience. The cameras of this smartphone are equipped with various features",
+    "description": "With a powerful battery, massive internal storage, impressive cameras and innovative features, there’s more to pixel 3 xl than meets the eye. Its 16 cm (6. 3) OLED bezel-less display with notch and its 82 percent body-to-display ratio, offers you an impressive viewing experience. The cameras of this smartphone are equipped with various features, such as the portrait mode to help take insta-worthy portraits and group selfies. Boasting a 3430 mAh battery, the pixel 3 xl won’t call it a day even after you do. Get weather info, search for fast commute routes or you want traffic updates - all you need is a simple squeeze or just your voice, to activate the google assistant.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51GSapCrtGL._SL1000_.jpg",
+    "category": "mobile"
+  },
+  {
+    "id": "mob_2",
+    "name": "Google Pixel 2 XL",
+    "price": "44000",
+    "description": "With a wide screen display of 6 inches and a 4 GB RAM memory, the Google Pixel is a popular choice in the range of smartphones that Google has to offer. The Google Pixel 2 XL features a powerful Snapdragon 835 processor to get more out of your smartphone in terms of processing power. Click pictures, create memories through videos and toggle between applications with this feature rich phone.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61VIZlolf4L._SL1000_.jpg",
+    "category": "mobile"
+  },
+  {
+    "id": "mob_3",
+    "name": "Apple iPhone XR",
+    "price": "59000",
+    "description": "With a 6.1-inch Liquid Retina display IP67 water and dust resistant 12MP camera with OIS and 7MP TrueDepth front camera—Portrait mode, Portrait Lighting, Depth Control, and Smart HDR. Face ID for secure authentication. A12 Bionic with next-generation Neural Engine. Wireless charging—works with Qi chargers iOS 12 with Memoji, Screen Time, Siri Shortcuts, and Group FaceTime",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/519KIlHA2wL._SL1024_.jpg",
+    "category": "mobile"
+  },
+  {
+    "id": "mob_4",
+    "name": "OnePlus 7 Pro",
+    "price": "57999",
+    "description": "Go beyond speed with 'OnePlus' newest flagship with an unique full display, an industry leading triple camera and premium glass design.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51FwsSj8knL._SL1000_.jpg",
+    "category": "mobile"
+  },
+  {
+    "id": "mob_5",
+    "name": "OnePlus 7",
+    "price": "32999",
+    "description": "Go beyond speed with 'OnePlus' newest flagship with an unique full display, an industry leading triple camera and premium glass design.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/512xYZ5OjGL._SL1000_.jpg",
+    "category": "mobile"
+  },
+  {
+    "id": "mob_6",
+    "name": "Samsung Galaxy S10 Plus",
+    "price": "114900",
+    "description": "Triple rear camera setup: 16MP with f2.2 aperture ultra wide + 12MP with f1.5 and f2.4 aperture wide + 12MP f2.4 tele| Dual front camera setup - 10MP f1.9 Main + 8MP f2.2 live focus 16.35 centimeters (6.4-inch) Dynamic AMOLED multi-touch capacitive touchscreen with 3040 x 1440 pixels resolution, 522 ppi pixel density Memory, Storage and SIM: 12GB RAM | 1024GB internal memory expandable up to 512GB | Dual SIM (nano+nano) dual stand by (4G+4G) Android Pie v9.0 operating system with 2.7GHz + 2.3GHz + 1.9GHz Exynos 9820 octa core processor 4100mAH lithium-ion battery 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase Box also includes: Earphones, Travel Adapter, USB Cable, Ejection Pin, User Manual.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61LFYmFlLuL._SL1500_.jpg",
+    "category": "mobile"
+  },
+  {
+    "id": "mob_7",
+    "name": "Samsung Galaxy Note 9",
+    "price": "77900",
+    "description": "Camera: 12 MP + Dual Rear Camera (F1.5/F2.4) + 12 MP (F2.4) | 8 MP (F1.7) front camera. Display: 16.2 centimeters (6.4-inch) QHD+ Super AMOLED Infinity capacitive touchscreen display with 2960x1440 pixels and 18.5:9 aspect ratio. Memory, Storage & SIM: 8GB RAM | 512GB storage expandable up to 512GB | Dual SIM with dual standby (4G+4G). Operating System and Processor: Android v8.0 Oreo operating system with Exynos Octa core processor. Battery: 4000 mAH lithium ion battery.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61-3SaQysBL._SL1500_.jpg",
+    "category": "mobile"
+  },
+  {
+    "id": "lap_1",
+    "name": "Dell Alienware 17 R5 VR Ready 17.3\" LCD Gaming Notebook",
+    "price": "150381",
+    "description": "Screen Size 17.3 inches Max Screen Resolution 1920 x 1080 Processor3.9 GHz Intel Core i7 RAM8 GB DDR4 Hard Drive1000 GB Hybrid Drive Graphics CoprocessorNVIDIA GeForce GTX 1060 Chipset BrandNVIDIA Card DescriptionIntegrated, Dedicated Graphics Card Ram Size6 GB Number of USB 2.0 Ports1 Number of USB 3.0 Ports3 Brand NameAlienware Item model numberAW17R5-7405SLV-PUS Hardware PlatformPC Operating SystemWindows 10 Home Item Weight9.74 pounds Product Dimensions13.1 x 16.7 x 1.2 inches Item Dimensions L x W x H13.07 x 16.69 x 1.18 inches ColorEpic Silver Processor BrandIntel Processor Count6 Computer Memory TypeDDR SDRAM Flash Memory Size8.0 Hard Drive InterfaceSerial ATA Hard Drive Rotational Speed5400 RPM Optical Drive TypeNone Batteries1 Lithium ion batteries required. (included)",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61dWWYvyUFL._SL1500_.jpg",
+    "category": "laptop"
+  },
+  {
+    "id": "lap_2",
+    "name": "MSI Gaming MSI GT83 8RG-007IN",
+    "price": "419990",
+    "description": " 2.60GHz Intel Core i7-8850H 8th Gen processor. 32GB DDR4 RAM. 1TB Serial ATA hard drive. 18.4-inch screen, NVidia GeForce GTX 1080 SLI 8GB Graphics. Windows 10 operating system. 5.5kg laptop",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/81MzezSQgdL._SL1500_.jpg",
+    "category": "laptop"
+  },
+  {
+    "id": "lap_3",
+    "name": "Asus ROG G703GI-E5148T",
+    "price": "499990",
+    "description": "ROG G703 is a beast of a gaming laptop that has the power to take on today’s gaming desktops, thanks to its factory-overclocked 8th Generation Intel Core i9 processor and overclockable NVIDIA GeForce GTX 1080 graphics. G703 is the key that unlocks supreme levels of gaming, so you can play AAA games on Ultra graphics settings without compromises. Continually pushing the envelope, ROG has torn up the gaming laptop blueprint, becoming the first to integrate an ultra-responsive IPS-level 144Hz display with a 3ms response time into its laptops. G703 features HyperDrive Extreme storage, which uses exclusive technology to combine three NVMe PCI Express (PCIe) SSDs in RAID 0 configuration for read speeds of up to 8700MB/s, so games load up in a blink of an eye.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/71lbxXG9NSL._SL1500_.jpg",
+    "category": "laptop"
+  },
+  {
+    "id": "lap_4",
+    "name": "INTEL CORE I5-1135G7",
+    "price": "17501",
+    "description": "INTEL CORE I5-1135G7 (TIGER LAKE)512GB PCIe valueRAM 8GB 1x8GB DDR4 2666NVIDIA GEFORCE MX350 2GBNatural Silver +NSV C-deck  [5UB55AV]Maldives 20C2WIN 10 HOME",
+    "imageURL": "https://m.media-amazon.com/images/I/61S+YopJsmL._AC_SL1044_.jpg",
+    "category": "laptop"
+  },
+  {
+    "id": "lap_5",
+    "name": "Lenovo IdeaPad Gaming 3 Laptop",
+    "price": "25732",
+    "description": "Lenovo IdeaPad Gaming 3 Laptop - Ryzen 7 5800H 8Cores, 16GB RAM, 512GB RAM, NVIDIA GeForce RTX 3050 4GB GDDR6 Graphics, 15.6 FHD 1920x1080 IPS 120Hz, Backlit Keyboard, Dos - Black + Gaming RGB Mouse",
+    "imageURL": "https://m.media-amazon.com/images/I/51RB0Vc2hFL._AC_SL1000_.jpg",
+    "category": "laptop"
+  },
+  {
+    "id": "lap_6",
+    "name": "Dell G15 15-5515 Gaming laptop",
+    "price": "32473",
+    "description": "Dell G15 15-5515 Gaming laptop - Ryzen 7 5800H 8 Cores, 16 GB RAM, 512GB SSD, Nvidia Geforce RTX 3050Ti 4GB GDDR6 Graphics, 15.6 FHD 120Hz, Backlit Keyboard, Windows 10 - Phantom Grey (LATEST MODEL)",
+    "imageURL": "https://m.media-amazon.com/images/I/81y0YdBB+ML._AC_SL1500_.jpg",
+    "category": "laptop"
+  },
+  {
+    "id": "lap_7",
+    "name": "Acer Nitro 5 AN515-57-79TD",
+    "price": "23033",
+    "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU | 15.6 FHD 144Hz IPS Display | 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+    "imageURL": "https://m.media-amazon.com/images/I/81lDOtJRTkL._AC_SL1500_.jpg",
+    "category": "laptop"
+  },
+  {
+    "id": "watch_1",
+    "name": "SAMSUNG Galaxy Watch5 Pro Smart Watch",
+    "price": "12970",
+    "description": "SAMSUNG Galaxy Watch5 Pro Smart Watch, Health Monitoring, Fitness Tracker, Long Lasting Battery, 45mm, Gray Titanium, 45",
+    "imageURL": "https://m.media-amazon.com/images/I/71zrF3GO7KL._AC_SL1500_.jpg",
+    "category": "watch"
+  },
+  {
+    "id": "watch_2",
+    "name": "SAMSUNG Galaxy Watch5 Pro Smart Watch",
+    "price": "12975",
+    "description": "SAMSUNG Galaxy Watch5 Pro Smart Watch, Health Monitoring, Fitness Tracker, Long Lasting Battery, 45mm, Black Titanium, 45",
+    "imageURL": "https://m.media-amazon.com/images/I/71T6cspSuaL._AC_SL1500_.jpg",
+    "category": "watch"
+  },
+  {
+    "id": "watch_3",
+    "name": "Apple Watch Series 8",
+    "price": "17750",
+    "description": "Apple Watch Series 8 GPS 45mm Aluminum Case with Sport Band - Regular, White",
+    "imageURL": "https://m.media-amazon.com/images/I/71xSYnvg7OL._AC_SX679_.jpg",
+    "category": "watch"
+  },
+  {
+    "id": "watch_4",
+    "name": "New Apple Watch Ultra",
+    "price": "31400",
+    "description": "New Apple Watch Ultra (GPS + Cellular, 49mm) - Titanium Case with Green Alpine Loop - Medium",
+    "imageURL": "https://m.media-amazon.com/images/I/916acEhBkcL._AC_SL1500_.jpg",
+    "category": "watch"
+  },
+  {
+    "id": "watch_5",
+    "name": "Apple Watch SE",
+    "price": "13199",
+    "description": "Apple Watch SE GPS 40MM Midnight Aluminum Case with Midnight Sport Band (2nd Gen - 2022)",
+    "imageURL": "https://m.media-amazon.com/images/I/71LfnkRgZ4L._AC_SL1500_.jpg",
+    "category": "watch"
+  },
+  {
+    "id": "watch_6",
+    "name": "Google Pixel Watch",
+    "price": "13450",
+    "description": "Google Pixel Watch – Android smartwatch with activity tracking – Heart rate tracking watch – Matte Black Stainless Steel case with Obsidian Active band, LTE",
+    "imageURL": "https://m.media-amazon.com/images/I/51vBM1X3UkL._AC_SL1500_.jpg",
+    "category": "watch"
+  },
+  {
+    "id": "watch_7",
+    "name": "HUAWEI WATCH FIT Smartwatch",
+    "price": "3554",
+    "description": "HUAWEI WATCH FIT Smartwatch, 1.64” Vivid AMOLED Display, 10 Days Battery Life, Built-in GPS, 5ATM, Oxygen Saturation Detection, Heart Rate Monitoring, Sleep Monitoring, Graphite Black",
+    "imageURL": "https://m.media-amazon.com/images/I/61gK7G79wdL._AC_SL1500_.jpg",
+    "category": "watch"
+  },
+  {
+    "id": "airpod_1",
+    "name": "Honor Choice Earbuds X, Black",
+    "price": "1256",
+    "description": "Honor Choice Earbuds X, Black-28 Hours Combined Playback Dual-Mic Noise Reduction for Calls Stable Bluetooth 5.2 Connection Game Mode for Low Latency 12mm Bio-Diaphragm Drivers Lightweight Semi In-Ear Design",
+    "imageURL": "https://m.media-amazon.com/images/I/715vd-GMFSL._AC_SL1500_.jpg",
+    "category": "airpod"
+  },
+  {
+    "id": "airpod_2",
+    "name": "Sony WF",
+    "price": "6990",
+    "description": "Sony WF-1000XM4 Truly Wireless NC Headset - Silver",
+    "imageURL": "https://m.media-amazon.com/images/I/41Ad5gHbK3S._AC_SL1000_.jpg",
+    "category": "airpod"
+  },
+  {
+    "id": "airpod_3",
+    "name": "Samsung Galaxy Buds2 Pro",
+    "price": "6199",
+    "description": "Samsung Galaxy Buds2 Pro Bluetooth Earbuds, True Wireless, Noise Cancelling, Charging Case, Quality Sound, Water Resistant, Black (UAE Version)",
+    "imageURL": "https://m.media-amazon.com/images/I/61L5lOMFahL._AC_SL1500_.jpg",
+    "category": "airpod"
+  },
+  {
+    "id": "airpod_4",
+    "name": "Soundcore by Anker Life P3",
+    "price": "4699",
+    "description": "Soundcore by Anker Life P3 Noise Cancelling Earbuds, Big Bass, 6 Mics, Clear Calls, Multi Mode Noise Cancelling, Wireless Charging, Soundcore App with Gaming Mode, Sleeping Mode, Find Your Earbuds",
+    "imageURL": "https://m.media-amazon.com/images/I/51YEeqRxsdL._AC_SL1500_.jpg",
+    "category": "airpod"
+  },
+  {
+    "id": "airpod_5",
+    "name": "Google Pixel Buds Pro",
+    "price": "7500",
+    "description": "Google Pixel Buds Pro - Noise Canceling Earbuds - Up to 31 Hour Battery Life with Charging Case - Bluetooth Headphones - Compatible with Wireless Charging - Fog",
+    "imageURL": "https://m.media-amazon.com/images/I/61+Y2+2g-EL._AC_SL1500_.jpg",
+    "category": "airpod"
+  },
+  {
+    "id": "headphone_1",
+    "name": "JBL Live 650BTNC",
+    "price": "5233",
+    "description": "JBL Live 650BTNC Wireless Over-Ear Headphones - Black",
+    "imageURL": "https://m.media-amazon.com/images/I/81WxagvboDL._AC_SL1500_.jpg",
+    "category": "headphone"
+  },
+  {
+    "id": "headphone_2",
+    "name": "Sony WH-1000XM5",
+    "price": "14999",
+    "description": "Sony WH-1000XM5 Noise Cancelling Wireless Headphones - 30 hours battery life - Over-ear style - Optimised for Alexa and the Google Assistant - with built-in mic for phone calls - Silver",
+    "imageURL": "https://m.media-amazon.com/images/I/41QCnjoVr2L._AC_SL1500_.jpg",
+    "category": "headphone"
+  },
+  {
+    "id": "headphone_3",
+    "name": "Turtle Beach Stealth 600",
+    "price": "2799",
+    "description": "Turtle Beach Stealth 600 Black Gen 2 Wireless Gaming Headset - SUPERHUMAN HEARING - POWERFUL, AMPLIFIED AUDIO - 15-HOUR BATTERY LIFE - FLIP-TO-MUTE MIC - PC And PlayStation 5, PlayStation 4",
+    "imageURL": "https://m.media-amazon.com/images/I/71-W6j54VdS.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "category": "headphone"
+  },
+  {
+    "id": "headphone_4",
+    "name": "Logitech G432",
+    "price": "2600",
+    "description": "Logitech G432 7.1 Surround Sound DTS Headphone: X 2.0 PC, PS4, XBOX and Mobile PRO G 50mm Drivers",
+    "imageURL": "https://m.media-amazon.com/images/I/61QqdeWYJwL._AC_SL1500_.jpg",
+    "category": "headphone"
+  },
+  {
+    "id": "headphone_5",
+    "name": "New Bose QuietComfort",
+    "price": "12120",
+    "description": "New Bose QuietComfort 45 Bluetooth Wireless Noise Canceling Headphones - Triple Black",
+    "imageURL": "https://m.media-amazon.com/images/I/51JbsHSktkL._AC_SL1500_.jpg",
+    "category": "headphone"
+  }
+]

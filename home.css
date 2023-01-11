@@ -1,0 +1,118 @@
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10% 2%;
+}
+.ch{
+width: 240px;
+height: 240px;
+box-shadow: 0px 0px 20px 5px rgb(207, 204, 204);
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+transition: 1s;
+}
+
+.ch:hover{
+    background: rgb(10, 52, 240);
+    transform: scale(1.1);
+}
+.ch p{
+    margin-top: -1%;
+}
+.ch i{
+    font-size: 40px;
+    color: rgb(4, 4, 78);
+    padding-bottom: 2%;
+}
+
+.ch:hover p{
+    color: #fff;
+}
+.ch:hover i{
+    color: #fff;
+}
+.ch:hover h3{
+    color: #fff;
+}
+
+.par1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 15px;
+    margin-bottom: 5%;
+    height: 400px;
+}
+.par1 .sec1 img{
+    width: 500px;
+    height: 400px;
+}
+.par1 .sec2{
+padding: 3%;
+width: 40%;
+}
+.par1 .sec2 h3{
+    font-size: 35px;
+    color: rgb(30, 30, 211);
+    }
+
+    .par1 .sec2 h1{
+        font-size: 55px;
+        color: rgb(8, 8, 8);
+        }
+
+        .par1 .sec2 p{
+            font-size: 19px;
+            color: rgb(8, 8, 8);
+            }
+
+
+.cat{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 500px;
+    gap: 20px;
+}
+.cat .pic1{
+    width: 250px;
+    height: 300px;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 8% 0%;
+}
+.pic1 img{
+    width: 100%;
+    height: 200px;
+}
+.pic1 h2{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: -2%;
+}
+.pic1 p{
+    text-align: center;
+    font-size: 17px;
+    margin-bottom: 10%;
+}
+.pic1 button{
+    background-image: linear-gradient(to right, rgb(57, 107, 245), rgb(24, 49, 163));
+    border: none;
+    color: white;
+    padding: 3% 11%;
+
+}
+#feat{
+    text-align: center;
+    color: rgb(17, 47, 184);
+    font-size: 45px;
+    cursor: pointer;
+}
